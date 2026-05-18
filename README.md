@@ -10,13 +10,13 @@ The project transforms raw transactional data into actionable business insights 
 
 ## 🔹 Executive Summary Dashboard
 
-![Executive Summary](images/executive_summary.png)
+![Executive Summary](Executive_Summary_Dashboard.PNG)
 
 ---
 
 ## 🔹 Customer Segmentation Dashboard
 
-![Customer Segmentation](images/customer_segmentation.png)
+![Customer Segmentation](Customer_Segmentation_Dashboard.PNG)
 
 ---
 
@@ -81,7 +81,7 @@ This project analyzes consumer shopping data to answer the core business questio
 # 📂 Dataset Summary
 
 Source: Public dataset obtained from GitHub
-Dataset Link: https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI/blob/main/customer_shopping_behavior.csv
+Link: [GitHub Repository] (https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI/blob/main/customer_shopping_behavior.csv)
 
 | Attribute | Details |
 |---|---|
@@ -235,25 +235,6 @@ This dashboard can help retail businesses:
 
 ---
 
-# 📁 Project Structure
-
-```text
-├── data/
-├── data cleaning/
-├── sql_queries/
-├── dashboard/
-│   └── retail_customer_dashboard.pbix
-├── images/
-├── README.md
-```
-
----
-
-# 🌐 Live Dashboard
-
-[View Interactive Power BI Dashboard](YOUR_POWER_BI_LINK_HERE)
-
----
 
 # 🚀 How to Use
 
