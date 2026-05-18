@@ -80,8 +80,7 @@ This project analyzes consumer shopping data to answer the core business questio
 
 # 📂 Dataset Summary
 
-Source: Public dataset obtained from GitHub
-Link: ![GitHub Repository] (https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI/blob/main/customer_shopping_behavior.csv)
+Source: Public dataset obtained from [GitHub Repository](https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI/blob/main/customer_shopping_behavior.csv)
 
 | Attribute | Details |
 |---|---|
